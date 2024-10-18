@@ -1,4 +1,4 @@
-<h2>Expense Tracker API Using EJS,express js , mongoDB</h2> <br>
+<h2>Expense Tracker API Using EJS,ExpressJS,MongoDB</h2> <br>
 
 Features:<br>
 1.Add Income and Expenses <br>
