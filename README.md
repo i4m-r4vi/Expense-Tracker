@@ -1,5 +1,8 @@
 <h2>Expense Tracker API Using EJS,ExpressJS,MongoDB</h2> <br>
 
+Instructions:<br>
+npm install 
+
 Features:<br>
 1.Add Income and Expenses <br>
 2.Delete Expenses<br>
